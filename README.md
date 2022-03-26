@@ -18,7 +18,7 @@ $ npm start
 
 After starting, navigate to http://localhost:5000/watermark/:filename
 
-_eg_: http://localhost:5000/watermark/post1.png
+_eg_: http://localhost:5000/watermark/post.png
 
 ## **Screenshots**
 
