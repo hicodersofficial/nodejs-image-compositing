@@ -1,6 +1,6 @@
 # **Nodejs Image Compositing**
 
-Compositing is the method combining two or more images to make a single picture. **Compositing can be use to put watermark on paid images so that it can't be use for free**.
+Compositing is the method of combining two or more images to make a single picture. **_Compositing can be used to put watermarks on paid images so that they can't be used for free_**.
 
 ## **Running The App**
 
